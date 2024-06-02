@@ -1,0 +1,7 @@
+C:\Users\masht\RiderProjects\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\masht\RiderProjects\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\masht\RiderProjects\ImageProcessing\obj\Debug\ImageProcessing.csproj.AssemblyReference.cache
+C:\Users\masht\RiderProjects\ImageProcessing\obj\Debug\ImageProcessing.csproj.SuggestedBindingRedirects.cache
+C:\Users\masht\RiderProjects\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\masht\RiderProjects\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\masht\RiderProjects\ImageProcessing\obj\Debug\ImageProcessing.pdb
